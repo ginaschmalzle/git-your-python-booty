@@ -1,5 +1,7 @@
 #Welcome to Python Bootcamp 2015!
 
+The materials collected in this repository are a collaborative effort between Caroline Harbitz (cterp) and myself (ginaschmalzle).  The purpose -- learn python!  Why? Cause it's cool.
+
 This repository contains all the information you need to participate in the bootcamp.  It contains interactive python notebooks and tutorials, as well as some practice assignments.  
 
 Directions to install:
@@ -15,7 +17,7 @@ You can download this repository to your local machine by clicking the 'Clone in
     git clone https://github.com/ginaschmalzle/git-your-python-booty.git
 
 
-Interested in using git? 
+Interested in using git?
 
 This is a simple explaination of some of the most common commands:
 

@@ -13,3 +13,10 @@ You can download this repository to your local machine by clicking the 'Clone in
     brew install git
 4. In your working directory type:
     git clone https://github.com/ginaschmalzle/git-your-python-booty.git
+
+
+Interested in using git? 
+
+This is a simple explaination of some of the most common commands:
+
+http://rogerdudler.github.io/git-guide/

@@ -6,9 +6,11 @@ Your computer probably has several versions of python on it, and the python you 
 
 ## Get virtualenv
 Install virtualenv to your default python:
+
   pip install virtualenv
 
 ## How to Make a Virtual Environment
+
   cd working_dir    # cd into your working directory
   virtualenv env    # this command creates your virtual 
 		    # environment, complete with its 
@@ -18,9 +20,12 @@ Install virtualenv to your default python:
   source venv/bin/activate
 
 ## Use Your New pip to Install Your Requirements
-For example 'pip install requests'.  If a requirements.txt file exists for your project, you can type 'pip install -r requirements.txt
+For example 'pip install requests'.  We have in this repo a file that contains all of your requirements.  To install all of your requirements for this project type:
+  
+  pip install -r requirements.txt
 
-## Put All of Your Requirements into a Requirements file
+## If in the future you add modules to your environment, you can list them in a requirements file.  The 'pip freeze' command will list your requirements along with the version.  To put All of Your Requirements into a Requirements file type:
+
   pip freeze > requirements.txt
 
 

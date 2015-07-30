@@ -8,14 +8,15 @@ Directions to install:
 
 You can download this repository to your local machine by clicking the 'Clone in Desktop' button on this webpage.  Or if you are savvy and want to impress your friends you can do it by:
 
-1. Open a terminal
-2. Make sure you have git installed.  You can check by typing 'which git' at the terminal prompt.  If a path appears continue to step 4.
-3. Install git.   Go to your terminal and type:
+(1) Open a terminal
+(2) Make sure you have git installed.  You can check by typing 'which git' at the terminal prompt.  If a path appears continue to step 4.
+(3) Install git.   Go to your terminal and type:
 
     brew update
-
     brew install git
-4. In your working directory type:
+
+(4) In your working directory type:
+
     git clone https://github.com/ginaschmalzle/git-your-python-booty.git
 
 
@@ -27,7 +28,7 @@ http://rogerdudler.github.io/git-guide/
 
 
 # Running the Code
-We recommend that you use virtual environments for your projects.  This helps keep a record of which modules you will need for each project, as well as a clean way of identifying which python you are using.  Below is a description of Virtual Environments and directions for using them for this project.  Once installed, you can type in your working directory:
+We recommend that you use virtual environments for your projects.  This helps keep a record of which modules you will need for each project, as well as a clean way of identifying which python you are using.  Below is a description of Virtual Environments and directions for using them for this project.  Once you get the below instructions installed, you can type in your working directory:
 
     source env/bin/activate
     ipython notebook

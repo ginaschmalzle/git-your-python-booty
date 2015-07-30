@@ -55,7 +55,8 @@ For example 'pip install requests'.  We have in this repo a file that contains a
 
   pip install -r requirements.txt
 
-### If in the future you add modules to your environment, you can list them in a requirements file.  The 'pip freeze' command will list your requirements along with the version.  To put All of Your Requirements into a Requirements file type:
+### Updating Your Requirements
+If in the future you add or remove modules to your virtual environment, you can list them in a requirements file.  The 'pip freeze' command will list your requirements along with the version.  To put All of Your Requirements into a Requirements file type:
 
   pip freeze > requirements.txt
 

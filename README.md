@@ -29,6 +29,7 @@ http://rogerdudler.github.io/git-guide/
 # Running the Code
 We recommend that you use virtual environments for your projects.  This helps keep a record of which modules you will need for each project, as well as a clean way of identifying which python you are using.  Below is a description of Virtual Environments and directions for using them for this project.  Once installed, you can type in your working directory:
 
+  source env/bin/activate
   ipython notebook
 
 ## Virtual Environments

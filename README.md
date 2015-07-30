@@ -28,9 +28,8 @@ http://rogerdudler.github.io/git-guide/
 
 # Running the Code
 We recommend that you use virtual environments for your projects.  This helps keep a record of which modules you will need for each project, as well as a clean way of identifying which python you are using.  Below is a description of Virtual Environments and directions for using them for this project.  Once installed, you can type in your working directory:
-
-  source env/bin/activate
-  ipython notebook
+    source env/bin/activate
+    ipython notebook
 
 ## Virtual Environments
 Virtual environment is a tool that keeps the modules required by different projects in separate places.  
@@ -40,28 +39,24 @@ Your computer probably has several versions of python on it, and the python you 
 
 ### Get virtualenv
 Install virtualenv to your default python:
-
-  pip install virtualenv
+    pip install virtualenv
 
 ### How to Make a Virtual Environment
-
-  cd working_dir    # cd into your working directory
-  virtualenv env    # this command creates your virtual
-		    # environment, complete with its
-		    # own version of python  
+    cd working_dir    # cd into your working directory
+    virtualenv env    # this command creates your virtual
+  		    # environment, complete with its
+  		    # own version of python  
 
 ### How to Use your New Python
   source venv/bin/activate
 
 ### Use Your New pip to Install Your Requirements
 For example 'pip install requests'.  We have in this repo a file that contains all of your requirements.  To install all of your requirements for this project type:
-
-  pip install -r requirements.txt
+    pip install -r requirements.txt
 
 ### Updating Your Requirements
 If in the future you add or remove modules to your virtual environment, you can list them in a requirements file.  The 'pip freeze' command will list your requirements along with the version.  To put All of Your Requirements into a Requirements file type:
-
-  pip freeze > requirements.txt
+    pip freeze > requirements.txt
 
 
 For more information on virtual environments, and some tools to simplify them, see http://docs.python-guide.org/en/latest/dev/virtualenvs/

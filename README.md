@@ -28,6 +28,7 @@ http://rogerdudler.github.io/git-guide/
 
 # Running the Code
 We recommend that you use virtual environments for your projects.  This helps keep a record of which modules you will need for each project, as well as a clean way of identifying which python you are using.  Below is a description of Virtual Environments and directions for using them for this project.  Once installed, you can type in your working directory:
+
     source env/bin/activate
     ipython notebook
 
@@ -50,7 +51,7 @@ Install virtualenv to your default python:
 
 ### How to Use your New Python
 
-    source venv/bin/activate
+    source env/bin/activate
 
 ### Use Your New pip to Install Your Requirements
 For example 'pip install requests'.  We have in this repo a file that contains all of your requirements.  To install all of your requirements for this project type:

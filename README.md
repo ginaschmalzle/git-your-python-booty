@@ -16,7 +16,7 @@ You can download this repository to your local machine by clicking the 'Download
 
 Interested in using git?
 
-This is a simple explaination of some of the most common commands:
+This is a simple explanation of some of the most common commands:
 
 http://rogerdudler.github.io/git-guide/
 
@@ -44,7 +44,7 @@ Once you have pip installed move to your cloned directory and type:
 
 To start your session type:
 
-    ipython notebook
+    jupyter notebook
 
 
 

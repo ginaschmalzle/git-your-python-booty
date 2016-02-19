@@ -1,6 +1,6 @@
 #Welcome to Introduction to Python 2016!
 
-The materials collected in this repository are a collaborative effort between Caroline Harbitz (https://github.com/cterp) and myself (https://github.com/ginaschmalzle).  The purpose -- learn python!  Why? Cause it's cool.
+The materials collected in this repository are a collaborative effort between Caroline Harbitz (https://github.com/cterp) and myself (https://github.com/ginaschmalzle).  The purpose -- learn Python!  Why? 'Cause it's cool.
 
 This repository contains all the information you need to participate in the workshop.  It contains interactive python notebooks and tutorials, as well as some practice assignments.  
 

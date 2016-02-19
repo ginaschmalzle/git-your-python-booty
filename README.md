@@ -27,7 +27,7 @@ You will need to download some additional modules for this workshop.
 ### pip
 The easiest python package management system to use is pip. If you do not have pip, you can install pip using easy_install. Here are the steps:
 
-1. Check to see if you have pip. If a path is returned you have pip; continue to the next session.
+1. Check to see if you have pip. If a path is returned you have pip; continue to the 'Install other requirements and launch Jupyter' section.  If not, continue to step 2.
 
     ```which pip```
 
@@ -48,6 +48,8 @@ Once you have pip installed move to your cloned directory and type:
 To start your session type:
 
     jupyter notebook
+
+
 
 
 

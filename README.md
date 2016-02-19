@@ -24,7 +24,7 @@ http://rogerdudler.github.io/git-guide/
 # Running the Code
 You will need to download some additional modules for this workshop.  The easiest python package management system to use is pip. If you do not have pip, you can install pip using easy_install.  Here are the steps:
 
-## pip
+### pip
 1. Check to see if you have pip. If a path is returned you have pip; continue to the next session.
 
     ```which pip```
@@ -38,7 +38,7 @@ If a path is returned type:
 
     easy_install pip
 
-## Install other requirements and launch Jupyter
+### Install other requirements and launch Jupyter
 Once you have pip installed move to your cloned directory and type:
 
     pip install -r requirements.txt

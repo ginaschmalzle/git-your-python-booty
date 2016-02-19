@@ -6,13 +6,13 @@ This repository contains all the information you need to participate in the work
 
 ##Directions to download this repository:
 
-You can download this repository to your local machine by clicking the 'Download ZIP' button on this webpage.  Or, if you are savvy and want to impress your friends you can do it by:
+You can download this repository to your local machine by clicking the 'Download ZIP' button on this webpage.  Or, if you want to impress your friends you can do it this way:
 
-(1) Open a terminal
-(2) Make sure you have git installed.  You can check by typing 'which git' at the terminal prompt.  If a path appears continue to step 4.
-(3) Install git (https://git-scm.com/book/en/v1/Getting-Started-Installing-Git). If you are on a mac, we recommend using homebrew (http://brew.sh/) to install git.
-(4) In your working directory type:
-    git clone https://github.com/ginaschmalzle/git-your-python-booty.git
+1. Open a terminal
+2. Make sure you have git installed.  You can check by typing 'which git' at the terminal prompt.  If a path appears continue to step 4.
+3. Install git (https://git-scm.com/book/en/v1/Getting-Started-Installing-Git). If you are on a mac, we recommend using homebrew (http://brew.sh/) to install git.
+4. In your working directory type:
+    ```git clone https://github.com/ginaschmalzle/git-your-python-booty.git```
 
 Interested in using git?
 
@@ -22,7 +22,7 @@ http://rogerdudler.github.io/git-guide/
 
 
 # Running the Code
-You will need download modules for this workshop.  The easiest python package management system to use is pip. If you do not have pip, you can install pip using easy_install.  Here are the steps:
+You will need to download some additional modules for this workshop.  The easiest python package management system to use is pip. If you do not have pip, you can install pip using easy_install.  Here are the steps:
 
 1. Check to see if you have pip:
 

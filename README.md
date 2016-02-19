@@ -9,7 +9,7 @@ This repository contains all the information you need to participate in the work
 You can download this repository to your local machine by clicking the 'Download ZIP' button on this webpage.  Or, if you want to impress your friends you can do it this way:
 
 1. Open a terminal
-2. Make sure you have git installed.  You can check by typing 'which git' at the terminal prompt.  If a path appears continue to step 4.
+2. Make sure you have git installed.  You can check by typing ```which git``` at the terminal prompt.  If a path appears continue to step 4.
 3. Install git (https://git-scm.com/book/en/v1/Getting-Started-Installing-Git). If you are on a mac, we recommend using homebrew (http://brew.sh/) to install git.
 4. In your working directory type:
     ```git clone https://github.com/ginaschmalzle/git-your-python-booty.git```

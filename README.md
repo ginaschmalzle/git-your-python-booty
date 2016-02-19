@@ -24,15 +24,14 @@ http://rogerdudler.github.io/git-guide/
 # Running the Code
 You will need to download some additional modules for this workshop.  The easiest python package management system to use is pip. If you do not have pip, you can install pip using easy_install.  Here are the steps:
 
-1. Check to see if you have pip:
+1. Check to see if you have pip. If a path is returned you have pip.
 
-    which pip
+    ```which pip```
 
-If a path is returned you have pip.  Continue to the next section.
 
 2. Check to see if you have easy_install:
 
-    which easy_install
+    ```which easy_install```
 
 If a path is returned type:
 
